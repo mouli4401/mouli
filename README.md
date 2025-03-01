@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mouli!  
-🚀 B.Tech CSE Student | Web & AI Enthusiast | Passionate Developer  | VRSEC | CSE
+🚀 B.Tech CSE Student | Web & AI Enthusiast | Passionate Developer  | 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mouli&color=blue)
 
