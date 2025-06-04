@@ -1,63 +1,90 @@
-# 👋 Hi, I'm Mouli!  
-🚀 B.Tech CSE Student | Web & AI Enthusiast | Passionate Developer  
+<h1 align="center">👋 Hey there, I'm Mouli! 🚀</h1>
+<h3 align="center">B.Tech CSE Student | Web & AI Enthusiast | Passionate Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mouli&color=blue)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7B801&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Tech+Explorer)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mouli&label=Profile%20views&color=blue&style=flat" alt="mouli" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7B801&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+AI+%26+ML+Explorer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Toolbox
 
-### Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+### 🚀 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+### 📚 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
 
-### Databases & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+### 💾 Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### EEG-Based Emotion Recognition for Driver Safety  
-*Real-time EEG signal processing to classify driver emotions and trigger safety alerts*  
-- Hardware: BioAmp EXG Pill & Maker Uno  
-- Focus: Accident prevention through emotion detection  
+### 🔹 EEG-Based Emotion Recognition for Driver Safety
+> Real-time EEG signal processing to classify driver emotions and trigger safety alerts.
 
-### Bank Management System (Java & JSP)  
-*Secure banking platform with account and transaction management*  
+- **Hardware:** BioAmp EXG Pill & Maker Uno  
+- **Tech:** Signal Processing, Python, ML  
+- **Goal:** Accident prevention using emotion-based alerts
 
-### E-commerce Application  
-*Full-stack shopping platform with cart, user authentication, and payment integration*  
+### 🔹 Bank Management System (Java & JSP)
+> Secure banking platform for managing customer accounts and transactions.
 
----
+- **Tech:** Java, JSP, MySQL  
+- **Features:** Login, Account CRUD, Transactions, Reports
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouli&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouli&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouli&layout=compact&theme=dark)  
+### 🔹 E-commerce Web App
+> Full-stack shopping website with cart, user authentication, and payment integration.
 
----
-
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mouli)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://mouli-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-contact-red?style=for-the-badge)](mailto:mouli@email.com)  
+- **Tech:** React, Node.js, MongoDB  
+- **Features:** Product catalog, cart system, user login, Stripe payments
 
 ---
 
-![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-💡 *“Code, Learn, Innovate, Repeat!”* 🚀
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouli&theme=radical" alt="mouli streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouli&show_icons=true&theme=radical" alt="mouli stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouli&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/mouli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://mouli-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
+  <a href="mailto:mouli@email.com"><img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+</p>
+<p align="center">
+  💡 <i>“Code, Learn, Innovate, Repeat!”</i> 🚀
+</p>
